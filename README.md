@@ -1,8 +1,8 @@
-# FileSearcher
+# Filesearcher
 
 ## Overview
 
-FileSearcher is a Python library that helps you search for files with a specified name across all available drives on your system. It efficiently locates files, providing their paths and the total number of matches found.
+Filesearcher is a Python library that helps you search for files with a specified name across all available drives on your system. It efficiently locates files, providing their paths and the total number of matches found.
 
 ## Features
 
@@ -21,18 +21,18 @@ FileSearcher is a Python library that helps you search for files with a specifie
 
    ```sh
    git clone https://github.com/deepanshu414/find_all.git
-2. **You can install FileSearchers using pip:**
+2. **You can install Filesearchers using pip:**
 
    ```sh
-   pip install FileSearcher
+   pip install Filesearcher
 
 ## Example
 
-from FileSearcher import main<br>
+from Filesearcher import main<br>
 main("example.txt")
 
 **<p align="center">OR</p>**
 
-import FileSearcher<br>
-FileSearcher.main("example.txt")
+import Filesearcher<br>
+Filesearcher.main("example.txt")
    
