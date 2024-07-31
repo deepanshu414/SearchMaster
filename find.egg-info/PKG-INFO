@@ -7,5 +7,4 @@ Author: Deepanshu antil
 Author-email: deepanshua351@gmail.com
 License: MIT
 License-File: Licence.txt
-Requires-Dist: colorama
 Requires-Dist: psutil
