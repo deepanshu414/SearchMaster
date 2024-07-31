@@ -1,8 +1,0 @@
-Licence.txt
-setup.py
-FileFinder/__init__.py
-FileFinder.egg-info/PKG-INFO
-FileFinder.egg-info/SOURCES.txt
-FileFinder.egg-info/dependency_links.txt
-FileFinder.egg-info/requires.txt
-FileFinder.egg-info/top_level.txt
