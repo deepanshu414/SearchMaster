@@ -21,3 +21,7 @@ This Python script searches for files with a specified name across all available
 
    ```sh
    git clone https://github.com/deepanshu414/find_all.git
+2. **You can install FileSearchers using pip:**
+
+   ```sh
+   pip install FileSearchers
