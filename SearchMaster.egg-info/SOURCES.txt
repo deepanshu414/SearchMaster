@@ -1,8 +1,0 @@
-Licence.txt
-setup.py
-SearchMaster/__init__.py
-SearchMaster.egg-info/PKG-INFO
-SearchMaster.egg-info/SOURCES.txt
-SearchMaster.egg-info/dependency_links.txt
-SearchMaster.egg-info/requires.txt
-SearchMaster.egg-info/top_level.txt
