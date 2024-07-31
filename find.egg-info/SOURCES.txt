@@ -1,0 +1,8 @@
+Licence.txt
+setup.py
+find/__init__.py
+find.egg-info/PKG-INFO
+find.egg-info/SOURCES.txt
+find.egg-info/dependency_links.txt
+find.egg-info/requires.txt
+find.egg-info/top_level.txt
