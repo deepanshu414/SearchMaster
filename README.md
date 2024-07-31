@@ -28,11 +28,11 @@ FileSearcher is a Python library that helps you search for files with a specifie
 
 ## Example
 
-from FileSearcher import main
+from FileSearcher import main<br>
 main("example.txt")
 
-## <p align="center">OR</p>
+**<p align="center">OR</p>**
 
-import FileSearcher
+import FileSearcher<br>
 FileSearcher.main("example.txt")
    
