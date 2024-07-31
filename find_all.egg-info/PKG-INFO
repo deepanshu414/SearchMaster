@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: find_all
+Version: 1.0.0
+Summary: Python script to find anything from your system.
+Home-page: https://github.com/deepanshu414
+Author: Deepanshu antil
+Author-email: deepanshuantil4113@gmail.com
+License: MIT
+License-File: Licence.txt
+Requires-Dist: psutil
