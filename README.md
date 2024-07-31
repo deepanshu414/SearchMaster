@@ -1,14 +1,14 @@
-# File Search Script
+# FileSearcher
 
 ## Overview
 
-This Python script searches for files with a specified name across all available drives on a system. It utilizes the `psutil` library to get drive information and the `os` library to traverse directories. The script outputs the full paths of matching files and provides a count of the total number of files found.
+FileSearcher is a Python library that helps you search for files with a specified name across all available drives on your system. It efficiently locates files, providing their paths and the total number of matches found.
 
 ## Features
 
-- Searches all drives for files matching a given name.
-- Prints the full path of each found file.
-- Displays the total number of matching files found.
+- **Search Across All Drives:** Finds files with the specified name on all available drives.
+- **Detailed Output:** Prints the full path of each matching file.
+- **Count of Matches:** Displays the total number of files found.
 
 ## Requirements
 
@@ -24,4 +24,5 @@ This Python script searches for files with a specified name across all available
 2. **You can install FileSearchers using pip:**
 
    ```sh
-   pip install FileSearchers
+   pip install FileSearcher
+   
