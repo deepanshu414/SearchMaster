@@ -1,8 +1,8 @@
-# FileFinder
+# SearchMaster
 
 ## Overview
 
-FileFinder  is a Python library that helps you search for files with a specified name across all available drives on your system. It efficiently locates files, providing their paths and the total number of matches found.
+SearchMaster is a Python library that helps you search for files with a specified name across all available drives on your system. It efficiently locates files, providing their paths and the total number of matches found.
 
 ## Features
 
@@ -21,18 +21,18 @@ FileFinder  is a Python library that helps you search for files with a specified
 
    ```sh
    git clone https://github.com/deepanshu414/find_all.git
-2. **You can install FileFinder using pip:**
+2. **You can install SearchMaster using pip:**
 
    ```sh
-   pip install FileFinder
+   pip install SearchMaster
 
 ## Example
 
-from FileFinder  import main<br>
+from SearchMaster  import main<br>
 main("example.txt")
 
 **<p align="center">OR</p>**
 
-import FileFinder <br>
-FileFinder.main("example.txt")
+import SearchMaster <br>
+SearchMaster.main("example.txt")
    
