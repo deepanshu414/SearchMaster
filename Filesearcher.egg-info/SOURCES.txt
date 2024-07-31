@@ -1,0 +1,8 @@
+Licence.txt
+setup.py
+Filesearcher/__init__.py
+Filesearcher.egg-info/PKG-INFO
+Filesearcher.egg-info/SOURCES.txt
+Filesearcher.egg-info/dependency_links.txt
+Filesearcher.egg-info/requires.txt
+Filesearcher.egg-info/top_level.txt
