@@ -1,3 +1,4 @@
 psutil==5.9.4
 setuptools==69.0.3
 wheel==0.40.0
+twine==5.1.1
