@@ -20,4 +20,4 @@ This Python script searches for files with a specified name across all available
 1. **Clone the repository:**
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/deepanshu414/find_all.git
