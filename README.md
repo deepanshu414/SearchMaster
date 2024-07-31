@@ -21,7 +21,7 @@ SearchMaster  is a Python library that helps you search for files with a specifi
 
    ```sh
    git clone https://github.com/deepanshu414/find_all.git
-2. **You can install Filesearchers using pip:**
+2. **You can install SearchMaster using pip:**
 
    ```sh
    pip install SearchMaster 
