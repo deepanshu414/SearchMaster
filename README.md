@@ -1,8 +1,8 @@
-# Filesearcher
+# SearchMaster 
 
 ## Overview
 
-Filesearcher is a Python library that helps you search for files with a specified name across all available drives on your system. It efficiently locates files, providing their paths and the total number of matches found.
+SearchMaster  is a Python library that helps you search for files with a specified name across all available drives on your system. It efficiently locates files, providing their paths and the total number of matches found.
 
 ## Features
 
@@ -24,15 +24,15 @@ Filesearcher is a Python library that helps you search for files with a specifie
 2. **You can install Filesearchers using pip:**
 
    ```sh
-   pip install Filesearcher
+   pip install SearchMaster 
 
 ## Example
 
-from Filesearcher import main<br>
+from SearchMaster  import main<br>
 main("example.txt")
 
 **<p align="center">OR</p>**
 
-import Filesearcher<br>
-Filesearcher.main("example.txt")
+import SearchMaster <br>
+SearchMaster .main("example.txt")
    
