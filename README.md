@@ -25,4 +25,14 @@ FileSearcher is a Python library that helps you search for files with a specifie
 
    ```sh
    pip install FileSearcher
+
+## Example
+
+from FileSearcher import main
+main("example.txt")
+
+## <p align="center">OR</p>
+
+import FileSearcher
+FileSearcher.main("example.txt")
    
