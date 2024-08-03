@@ -33,3 +33,7 @@ jobs:
         env:
           TWINE_USERNAME: __token__
           TWINE_PASSWORD: ${{ secrets.PYPI_API_TOKEN }}
+
+      - name: Clean up
+        run: |
+          rm -rf dist/*
