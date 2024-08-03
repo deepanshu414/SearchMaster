@@ -21,18 +21,22 @@ SearchMaster is a Python library that helps you search for files with a specifie
 
    ```sh
    git clone https://github.com/deepanshu414/find_all.git
+   ```
 2. **You can install SearchMaster using pip:**
 
    ```sh
    pip install SearchMaster
+   ```
 
 ## Example
-
-from SearchMaster  import main<br>
+```python
+from SearchMaster import main
 main("example.txt")
-
-**<p align="center">OR</p>**
-
-import SearchMaster <br>
+```
+**<p align="center" style="color:red;">OR</p>**
+```python
+import SearchMaster 
 SearchMaster.main("example.txt")
+```
+
    
