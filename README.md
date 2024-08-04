@@ -27,20 +27,15 @@
 
 ## 🛠 Skills
 
-Here are some of the languages and technologies I work with:
+In `SearchMaster`, I primarily utilize **Python** to deliver robust and efficient solutions. Here’s why Python is the cornerstone of my work:
 
-- 💻 **JavaScript**
-- 🌐 **HTML**
-- 🎨 **CSS**
-- 🐍 **Python**
-- 🔧 **C**
-- ⚙️ **C++**
-- 🌍 **PHP**
-- ☕ **Java**
-- 📊 **R**
-- 🤖 **Machine Learning**
+- **Versatile Language**: Python is renowned for its versatility, making it suitable for a wide range of applications from web development to data analysis.
+- **Efficient and Readable Code**: Python's clear syntax and readability enable rapid development and easy maintenance of code.
+- **Rich Libraries and Frameworks**: Leveraging Python’s extensive libraries and frameworks, such as `os`, `glob`, and `pathlib`, I can efficiently handle file operations and complex search algorithms.
+- **Strong Community Support**: Python's large and active community ensures that any challenges I encounter can be quickly addressed through available resources and documentation.
 
-Feel free to check out my projects and connect with me!
+Feel free to check out my projects to see how Python powers various functionalities and connect with me for more insights!
+
 
 ## Requirements
 
@@ -62,14 +57,23 @@ Feel free to check out my projects and connect with me!
    ```
 
 ## Usage/Examples
+
+Here's how to use the `SearchMaster` library to search for a file named `example.txt`:
+
 ```python
 from SearchMaster import search
-search("example.txt")
-```
-**<p align="center" style="color:red;">OR</p>**
-```python
-import SearchMaster 
-SearchMaster.search("example.txt")
+
+def main():
+   # Define the file name or pattern to search for
+   file_name = "example.txt"
+   
+   # Perform the search operation
+   # The search function will return a list of paths where the file is located
+   search_results = search(file_name)
+
+if __name__ == "__main__":
+    main()
+
 ```
 
 ## 🔗 Links
