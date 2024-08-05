@@ -64,21 +64,14 @@ if __name__ == "__main__":
     main()
 
 ```
-
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-antil-865508263)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DeepanshuA80670)
+   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepanshu414)
+   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DeepanshuA80670)
+   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-antil-865508263)
 
 
 ## Support
 
 For support, email deepanshuantil4113@gmail.com
-
-
-## Author
-
-- [@deepanshu414](https://github.com/deepanshu414)
-
-
 
    
