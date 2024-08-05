@@ -17,7 +17,7 @@
 !<img width="559" alt="example" src="https://github.com/user-attachments/assets/ec60461c-0df7-4fbd-b2b6-cd4c367d8406">
 
 ## Badges
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/deepanshu414/find_all/blob/main/Licence.txt)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 
 
