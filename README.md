@@ -25,17 +25,6 @@
 
 👋 Hi there! I'm Deepanshu, a passionate software developer with a broad range of skills in various programming languages and technologies. I thrive on solving complex problems, building efficient solutions, and continuously learning and growing in the tech world.
 
-## 🛠 Skills
-
-In `SearchMaster`, I primarily utilize **Python** to deliver robust and efficient solutions. Here’s why Python is the cornerstone of my work:
-
-- **Versatile Language**: Python is renowned for its versatility, making it suitable for a wide range of applications from web development to data analysis.
-- **Efficient and Readable Code**: Python's clear syntax and readability enable rapid development and easy maintenance of code.
-- **Rich Libraries and Frameworks**: Leveraging Python’s extensive libraries and frameworks, such as `os`, `glob`, and `pathlib`, I can efficiently handle file operations and complex search algorithms.
-- **Strong Community Support**: Python's large and active community ensures that any challenges I encounter can be quickly addressed through available resources and documentation.
-
-Feel free to check out my projects to see how Python powers various functionalities and connect with me for more insights!
-
 
 ## Requirements
 
