@@ -50,7 +50,7 @@
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/deepanshu414/find_all.git
+   git clone https://github.com/deepanshu414/SearchMaster.git
    ```
 2. **You can install SearchMaster using pip:**
 
