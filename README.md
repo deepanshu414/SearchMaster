@@ -10,10 +10,11 @@
 - [Features](#features)
 - [Demo](#demo)
 - [Badges](#badges)
+- [About me](#about-me-)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage/Examples](#usage/examples)
-- [Links](#links)
+- [Usage/Examples](#usageexamples)
+- [Links](#-links)
 - [Support](#support)
 
 ## Features
