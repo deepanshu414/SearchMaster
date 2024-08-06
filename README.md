@@ -27,7 +27,7 @@
 
 ## Demo
 
-!<img width="559" alt="example" src="https://github.com/user-attachments/assets/ec60461c-0df7-4fbd-b2b6-cd4c367d8406">
+!<img width="620" alt="new" src="https://github.com/user-attachments/assets/74b916e4-58b6-4f99-bf7a-931ed260e56d">
 
 
 ## Badges
@@ -64,16 +64,26 @@
 Here's how to use the `SearchMaster` library to search for a file named `example.txt`:
 
 ```python
-from SearchMaster import search
+# Importing search functions from the SearchMaster module
+from SearchMaster import searchp, searchl
 
 def main():
-   # Define the file name or pattern to search for
-   file_name = "example.txt"
+    # Perform a search using the `searchp` function and print each result one by one.
+    # This function is useful for immediate feedback or incremental output.
+    # Replace "example.txt" with the actual search query or file name.
+    searchp("example.txt")
    
-   # Perform the search operation
-   # The search function will return a list of paths where the file is located
-   search_results = search(file_name)
+    # Perform a search using the `searchl` function and obtain the results as a list.
+    # This function is useful for scenarios where results need to be processed or manipulated further.
+    # Replace "example.txt" with the actual search query or file name.
+    results = searchl("example.txt")
 
+    # Print the list of results returned by `searchl`.
+    # This allows you to see all results at once after the search is completed.
+    print(results)
+
+# Check if the script is being run directly (not imported as a module).
+# If true, execute the `main()` function to start the program.
 if __name__ == "__main__":
     main()
 
