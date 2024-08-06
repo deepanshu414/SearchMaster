@@ -10,7 +10,11 @@
 - [Features](#features)
 - [Demo](#demo)
 - [Badges](#badges)
-- [About Me](#aboutme)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage/Examples](#usage/examples)
+- [Links](#links)
+- [Support](#support)
 
 ## Features
 
@@ -30,7 +34,7 @@
 
 
 
-## 🚀 AboutMe
+## About Me 🚀
 
 👋 Hi there! I'm Deepanshu, a passionate software developer with a broad range of skills in various programming languages and technologies. I thrive on solving complex problems, building efficient solutions, and continuously learning and growing in the tech world.
 
