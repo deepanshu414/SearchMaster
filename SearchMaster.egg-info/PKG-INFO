@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: SearchMaster
-Version: 1.0.2
+Version: 1.1.4
 Summary: SearchMaster is a Python library that helps you search for files with a specified name across all available drives on your system.
 Home-page: https://github.com/deepanshu414/find_all
 Author: Deepanshu antil
