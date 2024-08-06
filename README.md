@@ -1,8 +1,16 @@
-# SearchMaster
+<div align="center">
 
-## Overview
+<img src="https://socialify.git.ci/deepanshu414/SearchMaster/image?description=1&descriptionEditable=SearchMaster%20is%20a%20Python%20library%20that%20helps%20you%20search%20for%20files%20with%20a%20specified%20name%20across%20all%20available%20drives%20on%20your%20system&font=KoHo&forks=1&issues=1&language=1&name=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="SearchMaster" width="640" height="320" />
+
+</div>
 
 `SearchMaster` is a Python library that helps you search for files with a specified name across all available drives on your system. Whether you're looking for a specific document, image, or any other file type, `SearchMaster` can help you locate it quickly and efficiently.
+
+## Table of Contents
+- [Features](#features)
+- [Demo](#demo)
+- [Badges](#badges)
+- [About Me](#aboutme)
 
 ## Features
 
@@ -16,12 +24,13 @@
 
 !<img width="559" alt="example" src="https://github.com/user-attachments/assets/ec60461c-0df7-4fbd-b2b6-cd4c367d8406">
 
+
 ## Badges
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 
 
-## 🚀 About Me
+## 🚀 AboutMe
 
 👋 Hi there! I'm Deepanshu, a passionate software developer with a broad range of skills in various programming languages and technologies. I thrive on solving complex problems, building efficient solutions, and continuously learning and growing in the tech world.
 
