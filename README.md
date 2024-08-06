@@ -27,7 +27,7 @@
 
 ## Demo
 
-!<img width="620" alt="new" src="https://github.com/user-attachments/assets/74b916e4-58b6-4f99-bf7a-931ed260e56d">
+<img width="620" alt="new" src="https://github.com/user-attachments/assets/74b916e4-58b6-4f99-bf7a-931ed260e56d">
 
 
 ## Badges
