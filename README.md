@@ -14,6 +14,7 @@
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage/Examples](#usageexamples)
+- [License](#license)
 - [Links](#-links)
 - [Support](#support)
 
@@ -88,6 +89,9 @@ if __name__ == "__main__":
     main()
 
 ```
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 🔗 Links
    [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepanshu414)
    [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DeepanshuA80670)
