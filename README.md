@@ -89,6 +89,13 @@ if __name__ == "__main__":
     main()
 
 ```
+
+Here's how to use the `SearchMaster` library to search for a file named `example.txt` via command line:
+
+```sh
+python -m SearchMaster "example.txt"
+```
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
