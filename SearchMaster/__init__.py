@@ -1,5 +1,6 @@
 import os
 import psutil
+import sys
 def searchp(Searching):
     def find_file_path(file_name):  
         a=0
@@ -57,6 +58,16 @@ def searchl(Searching):
         return list_main
     except Exception as e:
         return "Error: "+str(e)
+if len(sys.argv)!=2:
+    print("Usage: python script_name.py <search_term>")
+try:
+    value=sys.argv[1]
+    searchp(value)
+except Exception as e:
+    if len(sys.argv)==1:
+        print(f"Error: {e}")
+    else:
+        pass
 
 
 
